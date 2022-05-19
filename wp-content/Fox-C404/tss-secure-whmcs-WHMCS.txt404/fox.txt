@@ -1,0 +1,1 @@
+/home/tss/public_html/secure/whmcs/configuration.php
